@@ -29,5 +29,7 @@
 
   <modules>
     <module>Observer_WeatherStation</module>
+    <module>Observer_WeatherStationObserverable</module>
+    <module>Strategy</module>
   </modules>
 </project>
