@@ -31,5 +31,6 @@
     <module>Observer_WeatherStation</module>
     <module>Observer_WeatherStationObserverable</module>
     <module>Strategy</module>
+    <module>Factory_Simple</module>
   </modules>
 </project>
